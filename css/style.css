@@ -510,9 +510,7 @@ header .follow a:hover{
     color:#fff;
     border-radius: 50%;
 }
-#contact{
-    margin-top: -100px;
-}
+
 .contact .icons-container .icons h3{
     color:#111;
     font-size: 2rem;
@@ -635,6 +633,9 @@ header .follow a:hover{
     .cursor-2{
         display: none;
     }
+    #contact{
+        margin-top: -100px;
+    }
 
 }
 
@@ -650,6 +651,9 @@ header .follow a:hover{
 
     .experience .box-container .box{
         padding-right: 0;
+    }
+    #contact{
+        margin-top: -100px;
     }
 
 }
