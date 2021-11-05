@@ -304,10 +304,10 @@ header .follow a:hover{
 }
 
 .about .row-2 .skills .progress:nth-child(4) .bar span{
-    width:40%;
+    width:30%;
 }
 .about .row-2 .skills .progress:nth-child(5) .bar span{
-    width:50%;
+    width:40%;
 }
 
 .about .row-2 .box-container{
